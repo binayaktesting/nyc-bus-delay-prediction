@@ -27,10 +27,8 @@ Here are some of the key questions I investigated:
 -  Jupyter Notebook for organizing and documenting the entire process
 
 ## What I Found
-To simplify and better reflect real-world operations, I grouped several related issues (like flat tires, won't start, and mechanical failure) into Mechanical Issues".
+To simplify and better reflect real-world operations, I grouped several related issues (like flat tires, won't start, and mechanical failure) into Mechanical Issues". I found Traffic and Mechanical issues accounted for a large portion of delays
 ![Top Delay Reasons](top_delay_reasons.PNG)
-
-- Traffic and Mechanical issues accounted for a large portion of delays, especially when grouped (e.g., flat tires, engine problems).
 - Some companies consistently had longer delays, with Pride Transportation topping the list.
 - Thunderstorms slightly increased average delays, while hail had no measurable impact, likely because it’s rare in NYC.
 - Friday and Monday had slightly higher delays, but weekday patterns were mostly stable.
