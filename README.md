@@ -30,7 +30,7 @@ Here are some of the key questions I investigated:
 
 - Traffic and Mechanical issues accounted for a large portion of delays, especially when grouped (e.g., flat tires, engine problems).
 - Some companies consistently had longer delays, with Pride Transportation topping the list.
-- Thunderstorms slightly increased average delays, while hail had no measurable impact—likely because it’s rare in NYC.
+- Thunderstorms slightly increased average delays, while hail had no measurable impact, likely because it’s rare in NYC.
 - Friday and Monday had slightly higher delays, but weekday patterns were mostly stable.
 - The model was able to predict delay duration with reasonable accuracy using operational and company-level features.
 
