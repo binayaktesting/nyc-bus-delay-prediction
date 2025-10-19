@@ -4,12 +4,11 @@ This project explores the causes of school bus delays and breakdowns in New York
 
 ## Why I Chose This Project
 
-I live in New York City, and my daughter takes the school bus every day. I've seen firsthand how delays can create a ripple effect—impacting families, school routines, and even student learning. That’s what made this project feel personal and important. I wanted to dig into the patterns behind bus delays and see if it was possible to understand or even predict them using real data.
-
+I live in New York City, and my daughter takes the school bus every day. I've seen firsthand how delays can cause a ripple effect that impacts families, school routines, and student learning. That’s what made this project feel personal and important. I wanted to explore the patterns behind bus delays and see if it was possible to understand or even predict them using real data.
 
 ## What I Did
 
-I started by cleaning and preparing the bus delay dataset. I standardized the date fields, grouped similar reasons for delay (like combining mechanical issues), and removed incomplete or unclear values. I then merged this cleaned data with weather information from NOAA to explore how environmental factors might play a role.
+I started by cleaning and preparing the bus delay dataset. I standardized the date fields, grouped similar reasons for delay (such as combining mechanical issues), and removed incomplete or unclear values. Then, I merged this cleaned data with weather information from NOAA to explore how environmental factors might influence delays.
 
 ## What I Explored
 
@@ -39,4 +38,4 @@ Here are some of the key questions I investigated:
 
 This project involved a lot of iteration, especially during the cleaning and merging stages. Figuring out how to group categories in a meaningful way was challenging. But the process helped me better understand how real data behaves and how to design questions that data can actually answer.
 
-This was my final project for MS 692, and I focused on making it reflect thoughtful work, not just output. I hope it shows the full process—from forming questions to drawing insights from them.
+This was my final project for MSDS 692, and I aimed to make it demonstrate thoughtful work rather than just output. I hope it reflects the entire process from forming questions to drawing insights from them.
