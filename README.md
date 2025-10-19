@@ -37,6 +37,6 @@ Here are some of the key questions I investigated:
 
 ## Final Thoughts
 
-This project involved a lot of iteration—especially during the cleaning and merging stages. Figuring out how to group categories in a meaningful way was challenging. But the process helped me better understand how real data behaves and how to design questions that data can actually answer.
+This project involved a lot of iteration, especially during the cleaning and merging stages. Figuring out how to group categories in a meaningful way was challenging. But the process helped me better understand how real data behaves and how to design questions that data can actually answer.
 
 This was my final project for MS 692, and I focused on making it reflect thoughtful work, not just output. I hope it shows the full process—from forming questions to drawing insights from them.
