@@ -34,8 +34,8 @@ Manhattan showed longer average delays, which  tied to infrastructure or traffic
 ![Delay by Borough](average_delay_borough.PNG)
 All four precipitation levels had very similar average delay times, between 26 and 27 minutes.![Weather Delay](average_delay_weather.PNG)
 Weather events like thunder and heavy rain slightly increase delay durations, while others like hail had no measurable effect.![Weather Delay](average_delay_weather_events.PNG)
-- Friday and Monday had slightly higher delays, but weekday patterns were mostly stable.
-- The model was able to predict delay duration with reasonable accuracy using operational and company-level features.
+The model was able to predict delay duration with reasonable accuracy using operational and company-level features. This plot shows the most important features the model used to predict delay duration. The top two were bus company names, which says a lot.
+![Feature Importance](important_features_model.PNG)
 
 ## Final Thoughts
 
