@@ -29,7 +29,7 @@ Here are some of the key questions I investigated:
 ## What I Found
 To simplify and better reflect real-world operations, I grouped several related issues (like flat tires, won't start, and mechanical failure) into Mechanical Issues". I found Traffic and Mechanical issues accounted for a large portion of delays
 ![Top Delay Reasons](top_delay_reasons.PNG)
-- Some companies consistently had longer delays, with Pride Transportation topping the list.
+- Some companies consistently had longer delays, with Pride Transportation topping the list. ![Delay by Company](average_delay_bus_companies.PNG)
 - Thunderstorms slightly increased average delays, while hail had no measurable impact, likely because it’s rare in NYC.
 - Friday and Monday had slightly higher delays, but weekday patterns were mostly stable.
 - The model was able to predict delay duration with reasonable accuracy using operational and company-level features.
