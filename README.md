@@ -27,14 +27,13 @@ Here are some of the key questions I investigated:
 -  Jupyter Notebook for organizing and documenting the entire process
 
 ## What I Found
-To simplify and better reflect real-world operations, I grouped several related issues (like flat tires, won't start, and mechanical failure) into Mechanical Issues". I found Traffic and Mechanical issues accounted for a large portion of delays.
-![Top Delay Reasons](top_delay_reasons.PNG)
+To simplify and better reflect real-world operations, I grouped several related issues (like flat tires, won't start, and mechanical failure) into Mechanical Issues". I found Traffic and Mechanical issues accounted for a large portion of delays.![Top Delay Reasons](top_delay_reasons.PNG)
 Some companies consistently had longer delays, with Pride Transportation topping the list. ![Delay by Company](average_delay_bus_companies.PNG)
 Manhattan showed longer average delays, which  tied to infrastructure or traffic congestion.
 ![Delay by Borough](average_delay_borough.PNG)
 All four precipitation levels had very similar average delay times, between 26 and 27 minutes.![Weather Delay](average_delay_weather.PNG)
 Weather events like thunder and heavy rain slightly increase delay durations, while others like hail had no measurable effect.![Weather Delay](average_delay_weather_events.PNG)
-The model was able to predict delay duration with reasonable accuracy using operational and company-level features. This plot shows the most important features the model used to predict delay duration. The top two were bus company names, which says a lot.
+The model was able to predict delay duration with reasonable accuracy using operational and company-level features. This plot shows the most important features the model used to predict delay duration. The top two were bus company names.
 ![Feature Importance](important_features_model.PNG)
 
 ## Final Thoughts
