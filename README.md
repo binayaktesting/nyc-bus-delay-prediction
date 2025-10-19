@@ -27,6 +27,8 @@ Here are some of the key questions I investigated:
 -  Jupyter Notebook for organizing and documenting the entire process
 
 ## What I Found
+To simplify and better reflect real-world operations, I grouped several related issues (like flat tires, won't start, and mechanical failure) into Mechanical Issues".
+![Top Delay Reasons](top_delay_reasons.PNG)
 
 - Traffic and Mechanical issues accounted for a large portion of delays, especially when grouped (e.g., flat tires, engine problems).
 - Some companies consistently had longer delays, with Pride Transportation topping the list.
