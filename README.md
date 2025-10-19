@@ -21,8 +21,8 @@ Here are some of the key questions I investigated:
 
 ## Tools and Techniques
 
--  Pandas and Matplotlib for data preparation and visualization
--  Seaborn for clearer, comparative plots
+-  Pandas and NumPy for working with and cleaning the data
+-  Matplotlib and Seaborn for creating visualizations and comparing patterns
 -  Random Forest and XGBoost models for prediction
 -  Jupyter Notebook for organizing and documenting the entire process
 
